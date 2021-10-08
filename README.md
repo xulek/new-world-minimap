@@ -20,7 +20,7 @@ your position from the values in the Top Left Corner of your screen and updates 
 
 ![image](https://user-images.githubusercontent.com/49837342/136599051-446c93c7-e003-400e-82f1-bfecf8079f1d.png)  
 
-**There are multiple option and filters available to customise your position and scale of the Mimimap:**
+**There are multiple option and filters available to customise your position and scale of the Mimimap:**  
 • 1. Openthe Settings menu by clicking on the yellow gear Icon shown at position "1". once the menu is open you will be able to click and drag the Minimap on the screen to move it wherever you want. you can also use the Scale slider to make it bigger or smaller.  
 • 2. Like I mentioned earlier it uses the "NewWorldFans' Map" to pinpoint the resource location so a quick link button to their Web Site can be located at position "2'.  
 • 3. Don't want to Show the Minimap anymore? (because you are in Town having a nice conversation with the NPC's or in a Dungeon) Press the button at position "3" to show/hide the Minimap.(ps. if you screwed anything up with the settings and the Minimap is gone or not working anymore Hold "Ctrl + left Click" this button to reset the settings to default.)  
